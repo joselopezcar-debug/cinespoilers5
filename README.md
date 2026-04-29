@@ -5,5 +5,8 @@
 ### Primer Entregable:
 ![Imagen 1](./docs/Entregable_1.png)
 ### Segundo Entregable:
-
+![Imagen 2](./docs/Entregable_2.png)
 ### Tercer Entregable:
+![Imagen 3](./docs/Entregable_3.png)
+### Tercer Entregable:
+![Imagen 4](./docs/Entregable_4.png)
